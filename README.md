@@ -7,6 +7,7 @@ Mainly, the inverted pendulum can be controlled by an agent when applying a rein
 
 
 
+
 ## Author
 - [Luis F. Sanchez-Spinola](https://github.com/Fer2799)
 
